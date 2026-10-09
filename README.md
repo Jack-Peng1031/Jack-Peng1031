@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 ```
 #include<iostream>
 using namespace std;
-int main(0){
+int main(){
    cout<<"hello world";
    return 0;
 }
